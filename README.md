@@ -49,4 +49,8 @@ This page allows for a more detailed exploration of artists, platform performanc
 * Total Chart Appearances by Platform (Multi-row Card)
 * Average Audio Features (%) (Clustered Bar Chart)
 
-## Project Structure
+## Contact
+
+* **Your Name:** [Adeena Raheen]
+* **LinkedIn:** [(https://www.linkedin.com/in/adeena-raheen-data-analyst/)]
+* **Email:** [aadeenaraheen@gmail.com]
